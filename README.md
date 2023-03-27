@@ -6,7 +6,8 @@ This process involves several steps, including edge detection, color quantizatio
 ## Steps to process the Image : 
 
 ```The first step is edge detection, which involves identifying the edges of objects in the image. 
-This is done using a technique called Canny edge detection, which involves applying a series of filters to the image to detect areas of high gradient. ``` 
+This is done using a technique called Canny edge detection, which involves applying a series of filters to the image to detect areas of high gradient.
+``` 
 ```
 The second step is color quantization, which involves reducing the number of colors in the image to create a more stylized cartoon-like appearance.
 This is done using a technique called k-means clustering, which groups similar colors together.
